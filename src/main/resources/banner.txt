@@ -1,0 +1,9 @@
+____  _       _
+ | __ )(_) ___ | |_ ___ _ __ _ __ __ _
+ |  _ \| |/ _ \| __/ _ \ '__| '__/ _` |
+ | |_) | | (_) | ||  __/ |  | | | (_| |
+ |____/|_|\___/ \__\___|_|  |_|  \__,_|
+
+ :: Intelligent agricultural monitoring platform ::
+ :: Spring Boot 4  ·  Java 21  ·  PostgreSQL      ::
+ :: github.com/josuejvillalobos                   ::
