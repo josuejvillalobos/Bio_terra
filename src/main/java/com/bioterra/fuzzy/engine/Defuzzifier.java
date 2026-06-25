@@ -1,5 +1,12 @@
 package com.bioterra.fuzzy.engine;
 
-public class Defuzzifier {
-    
+import com.bioterra.fuzzy.model.LinguisticVariable;
+import java.util.Map;
+
+public interface Defuzzifier {
+
+    double defuzzify(
+        LinguisticVariable outputVariable,
+        Map<String, Double> firingStrengths
+    );
 }
