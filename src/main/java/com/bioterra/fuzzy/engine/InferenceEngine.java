@@ -4,7 +4,7 @@ import com.bioterra.fuzzy.model.FuzzyRule;
 import java.util.List;
 import java.util.Map;
 
-public interface InterferenceEngine {
+public interface InferenceEngine {
     
     Map<String, Double> infer(
         List<FuzzyRule> rules,
